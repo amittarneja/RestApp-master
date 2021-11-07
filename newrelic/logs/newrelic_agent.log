@@ -1,0 +1,471 @@
+2021-11-07T17:40:04,504+1100 [15509 1] com.newrelic INFO: Writing to New Relic log file: /Users/admin/Downloads/RESTfulService-master/newrelic/logs/newrelic_agent.log
+2021-11-07T17:40:04,505+1100 [15509 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_281
+2021-11-07T17:40:04,505+1100 [15509 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.281-b09
+2021-11-07T17:40:04,505+1100 [15509 1] com.newrelic INFO: OS Mac OS X version 10.16 arch x86_64
+2021-11-07T17:40:04,505+1100 [15509 1] com.newrelic INFO: Agent Host: IT-C02XJ2H4JHD3 IP: 192.168.1.16
+2021-11-07T17:40:04,506+1100 [15509 1] com.newrelic INFO: New Relic Agent v7.4.0 is initializing...
+2021-11-07T17:40:05,865+1100 [15509 11] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-11-07T17:40:08,886+1100 [15509 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-11-07T17:40:11,117+1100 [15509 1] com.newrelic INFO: Setting audit_mode to false
+2021-11-07T17:40:11,549+1100 [15509 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/admin/Downloads/RESTfulService-master/newrelic/./newrelic.yml
+2021-11-07T17:40:11,570+1100 [15509 1] com.newrelic INFO: New Relic Agent v7.4.0 has started
+2021-11-07T17:40:11,571+1100 [15509 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@799f7e29
+2021-11-07T17:40:11,571+1100 [15509 1] com.newrelic INFO: Premain startup complete in 8,550ms
+2021-11-07T17:40:11,622+1100 [15509 6] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2021-11-07T17:40:11,648+1100 [15509 6] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2021-11-07T17:41:07,342+1100 [15533 1] com.newrelic INFO: Writing to New Relic log file: /Users/admin/Downloads/RESTfulService-master/newrelic/logs/newrelic_agent.log
+2021-11-07T17:41:07,342+1100 [15533 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_281
+2021-11-07T17:41:07,342+1100 [15533 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.281-b09
+2021-11-07T17:41:07,343+1100 [15533 1] com.newrelic INFO: OS Mac OS X version 10.16 arch x86_64
+2021-11-07T17:41:07,343+1100 [15533 1] com.newrelic INFO: Agent Host: IT-C02XJ2H4JHD3 IP: 192.168.1.16
+2021-11-07T17:41:07,343+1100 [15533 1] com.newrelic INFO: New Relic Agent v7.4.0 is initializing...
+2021-11-07T17:41:08,477+1100 [15533 11] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-11-07T17:41:11,472+1100 [15533 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-11-07T17:41:13,653+1100 [15533 1] com.newrelic INFO: Setting audit_mode to false
+2021-11-07T17:41:14,071+1100 [15533 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/admin/Downloads/RESTfulService-master/newrelic/./newrelic.yml
+2021-11-07T17:41:14,093+1100 [15533 1] com.newrelic INFO: New Relic Agent v7.4.0 has started
+2021-11-07T17:41:14,093+1100 [15533 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@799f7e29
+2021-11-07T17:41:14,093+1100 [15533 1] com.newrelic INFO: Premain startup complete in 7,837ms
+2021-11-07T17:41:14,136+1100 [15533 6] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2021-11-07T17:41:14,166+1100 [15533 6] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2021-11-07T17:50:54,152+1100 [15701 1] com.newrelic INFO: Writing to New Relic log file: /Users/admin/Downloads/RESTfulService-master/newrelic/logs/newrelic_agent.log
+2021-11-07T17:50:54,152+1100 [15701 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_201
+2021-11-07T17:50:54,152+1100 [15701 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.201-b09
+2021-11-07T17:50:54,153+1100 [15701 1] com.newrelic INFO: OS Mac OS X version 10.16 arch x86_64
+2021-11-07T17:50:54,153+1100 [15701 1] com.newrelic INFO: Agent Host: IT-C02XJ2H4JHD3 IP: 192.168.1.16
+2021-11-07T17:50:54,153+1100 [15701 1] com.newrelic INFO: New Relic Agent v7.4.0 is initializing...
+2021-11-07T17:50:55,488+1100 [15701 11] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-11-07T17:50:58,528+1100 [15701 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-11-07T17:50:59,561+1100 [15701 1] com.newrelic INFO: Setting audit_mode to false
+2021-11-07T17:50:59,978+1100 [15701 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/admin/Downloads/RESTfulService-master/newrelic/./newrelic.yml
+2021-11-07T17:50:59,998+1100 [15701 1] com.newrelic INFO: New Relic Agent v7.4.0 has started
+2021-11-07T17:50:59,998+1100 [15701 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@1b4fb997
+2021-11-07T17:50:59,998+1100 [15701 1] com.newrelic INFO: Premain startup complete in 7,315ms
+2021-11-07T17:51:04,148+1100 [15701 40] com.newrelic INFO: Server Info: Apache Tomcat/8.5.28
+2021-11-07T17:51:10,002+1100 [15701 32] com.newrelic INFO: Host name is IT-C02XJ2H4JHD3, display host IT-C02XJ2H4JHD3 for application RESTfulService
+2021-11-07T17:51:10,003+1100 [15701 32] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2021-11-07T17:51:11,416+1100 [15701 32] com.newrelic INFO: Remote preconnect call failed : com.newrelic.agent.ForceDisconnectException: Invalid license key.
+2021-11-07T17:51:11,417+1100 [15701 32] com.newrelic ERROR: Received a ForceDisconnectException: com.newrelic.agent.ForceDisconnectException: Invalid license key. The agent is no longer reporting information. If this is not a misconfiguration, please contact support@newrelic.com.
+2021-11-07T17:51:11,417+1100 [15701 32] com.newrelic.agent.rpm.RPMConnectionServiceImpl INFO: Failed to connect to collector.newrelic.com:443 for RESTfulService: com.newrelic.agent.ForceDisconnectException: Invalid license key
+2021-11-07T17:51:11,419+1100 [15701 70] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2021-11-07T17:56:59,658+1100 [15701 6] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2021-11-07T17:56:59,659+1100 [15701 6] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2021-11-07T17:57:12,117+1100 [15818 1] com.newrelic INFO: Writing to New Relic log file: /Users/admin/Downloads/RESTfulService-master/newrelic/logs/newrelic_agent.log
+2021-11-07T17:57:12,117+1100 [15818 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_201
+2021-11-07T17:57:12,118+1100 [15818 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.201-b09
+2021-11-07T17:57:12,118+1100 [15818 1] com.newrelic INFO: OS Mac OS X version 10.16 arch x86_64
+2021-11-07T17:57:12,118+1100 [15818 1] com.newrelic INFO: Agent Host: IT-C02XJ2H4JHD3 IP: 192.168.1.16
+2021-11-07T17:57:12,118+1100 [15818 1] com.newrelic INFO: New Relic Agent v7.4.0 is initializing...
+2021-11-07T17:57:13,305+1100 [15818 11] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-11-07T17:57:17,478+1100 [15818 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-11-07T17:57:18,487+1100 [15818 1] com.newrelic INFO: Setting audit_mode to false
+2021-11-07T17:57:18,922+1100 [15818 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/admin/Downloads/RESTfulService-master/newrelic/./newrelic.yml
+2021-11-07T17:57:18,943+1100 [15818 1] com.newrelic INFO: New Relic Agent v7.4.0 has started
+2021-11-07T17:57:18,944+1100 [15818 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@1b4fb997
+2021-11-07T17:57:18,944+1100 [15818 1] com.newrelic INFO: Premain startup complete in 7,984ms
+2021-11-07T17:57:23,227+1100 [15818 40] com.newrelic INFO: Server Info: Apache Tomcat/8.5.28
+2021-11-07T17:57:28,947+1100 [15818 32] com.newrelic INFO: Host name is IT-C02XJ2H4JHD3, display host IT-C02XJ2H4JHD3 for application RESTfulService
+2021-11-07T17:57:28,949+1100 [15818 32] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2021-11-07T17:57:30,365+1100 [15818 32] com.newrelic INFO: Collector redirection to collector-005.newrelic.com:443
+2021-11-07T17:57:31,667+1100 [15818 32] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2021-11-07T17:57:31,667+1100 [15818 32] com.newrelic INFO: Agent run id: BYzvGEfO623nADLa7CFAeC5hh3k0AAIBAAAnIQEAAD3KAgQhQHerAwAFNy40LjAAD0lULUMwMlhKMkg0SkhEMwAOUkVTVGZ1bFNlcnZpY2U
+2021-11-07T17:57:31,667+1100 [15818 32] com.newrelic INFO: Agent 15818@IT-C02XJ2H4JHD3/RESTfulService connected to collector.newrelic.com:443
+2021-11-07T17:57:31,667+1100 [15818 32] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/3332844/applications/557873067
+2021-11-07T17:57:31,669+1100 [15818 32] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-11-07T17:57:31,669+1100 [15818 32] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2021-11-07T17:57:31,669+1100 [15818 32] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2021-11-07T17:57:31,672+1100 [15818 32] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-11-07T17:57:31,673+1100 [15818 32] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2021-11-07T17:57:31,673+1100 [15818 32] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2021-11-07T17:57:32,889+1100 [15818 32] com.newrelic INFO: Real user monitoring is enabled for application RESTfulService. Auto instrumentation is enabled.
+2021-11-07T17:57:32,890+1100 [15818 32] com.newrelic WARN: Not starting JFR Service. Core JFR APIs do not exist in this JVM.
+2021-11-07T18:27:17,160+1100 [15818 6] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2021-11-07T18:27:17,222+1100 [15818 378] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@44d3e844 tried to finish but ServiceManager not started
+2021-11-07T18:27:17,637+1100 [15818 6] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2021-11-07T18:27:31,655+1100 [37042 1] com.newrelic INFO: Writing to New Relic log file: /Users/admin/Downloads/RESTfulService-master/newrelic/logs/newrelic_agent.log
+2021-11-07T18:27:31,656+1100 [37042 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_201
+2021-11-07T18:27:31,656+1100 [37042 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.201-b09
+2021-11-07T18:27:31,656+1100 [37042 1] com.newrelic INFO: OS Mac OS X version 10.16 arch x86_64
+2021-11-07T18:27:31,656+1100 [37042 1] com.newrelic INFO: Agent Host: IT-C02XJ2H4JHD3 IP: 192.168.1.16
+2021-11-07T18:27:31,656+1100 [37042 1] com.newrelic INFO: New Relic Agent v7.4.0 is initializing...
+2021-11-07T18:27:33,185+1100 [37042 11] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-11-07T18:27:37,472+1100 [37042 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-11-07T18:27:38,727+1100 [37042 1] com.newrelic INFO: Setting audit_mode to false
+2021-11-07T18:27:39,322+1100 [37042 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/admin/Downloads/RESTfulService-master/newrelic/./newrelic.yml
+2021-11-07T18:27:39,352+1100 [37042 1] com.newrelic INFO: New Relic Agent v7.4.0 has started
+2021-11-07T18:27:39,353+1100 [37042 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@1b4fb997
+2021-11-07T18:27:39,353+1100 [37042 1] com.newrelic INFO: Premain startup complete in 9,008ms
+2021-11-07T18:27:46,750+1100 [37042 40] com.newrelic INFO: Server Info: Apache Tomcat/8.5.28
+2021-11-07T18:27:54,348+1100 [37042 32] com.newrelic INFO: Host name is IT-C02XJ2H4JHD3, display host IT-C02XJ2H4JHD3 for application RESTfulService
+2021-11-07T18:27:54,349+1100 [37042 32] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2021-11-07T18:27:55,890+1100 [37042 32] com.newrelic INFO: Collector redirection to collector-005.newrelic.com:443
+2021-11-07T18:27:57,218+1100 [37042 32] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2021-11-07T18:27:57,218+1100 [37042 32] com.newrelic INFO: Agent run id: BYzeRoW7giI6ADLa7CFAeC5hh4A8AAIBAAAnIQEAAJCyAgQhQHerAwAFNy40LjAAD0lULUMwMlhKMkg0SkhEMwAOUkVTVGZ1bFNlcnZpY2U
+2021-11-07T18:27:57,218+1100 [37042 32] com.newrelic INFO: Agent 37042@IT-C02XJ2H4JHD3/RESTfulService connected to collector.newrelic.com:443
+2021-11-07T18:27:57,218+1100 [37042 32] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/3332844/applications/557873067
+2021-11-07T18:27:57,221+1100 [37042 32] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-11-07T18:27:57,221+1100 [37042 32] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2021-11-07T18:27:57,221+1100 [37042 32] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2021-11-07T18:27:57,227+1100 [37042 32] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-11-07T18:27:57,227+1100 [37042 32] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2021-11-07T18:27:57,227+1100 [37042 32] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2021-11-07T18:27:58,886+1100 [37042 32] com.newrelic INFO: Real user monitoring is enabled for application RESTfulService. Auto instrumentation is enabled.
+2021-11-07T18:27:58,887+1100 [37042 32] com.newrelic WARN: Not starting JFR Service. Core JFR APIs do not exist in this JVM.
+2021-11-07T18:39:22,515+1100 [37042 6] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2021-11-07T18:39:22,590+1100 [37042 107] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@28a17bae tried to finish but ServiceManager not started
+2021-11-07T18:39:22,979+1100 [37042 6] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2021-11-07T18:39:31,942+1100 [12449 1] com.newrelic INFO: Writing to New Relic log file: /Users/admin/Downloads/RESTfulService-master/newrelic/logs/newrelic_agent.log
+2021-11-07T18:39:31,942+1100 [12449 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_201
+2021-11-07T18:39:31,942+1100 [12449 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.201-b09
+2021-11-07T18:39:31,943+1100 [12449 1] com.newrelic INFO: OS Mac OS X version 10.16 arch x86_64
+2021-11-07T18:39:31,943+1100 [12449 1] com.newrelic INFO: Agent Host: IT-C02XJ2H4JHD3 IP: 192.168.1.16
+2021-11-07T18:39:31,943+1100 [12449 1] com.newrelic INFO: New Relic Agent v7.4.0 is initializing...
+2021-11-07T18:39:33,209+1100 [12449 14] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-11-07T18:39:36,562+1100 [12449 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-11-07T18:39:37,605+1100 [12449 1] com.newrelic INFO: Setting audit_mode to false
+2021-11-07T18:39:38,078+1100 [12449 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/admin/Downloads/RESTfulService-master/newrelic/./newrelic.yml
+2021-11-07T18:39:38,099+1100 [12449 1] com.newrelic INFO: New Relic Agent v7.4.0 has started
+2021-11-07T18:39:38,099+1100 [12449 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@457e2f02
+2021-11-07T18:39:38,100+1100 [12449 1] com.newrelic INFO: Premain startup complete in 7,381ms
+2021-11-07T18:39:43,298+1100 [12449 43] com.newrelic INFO: Server Info: Apache Tomcat/8.5.28
+2021-11-07T18:39:48,104+1100 [12449 35] com.newrelic INFO: Host name is IT-C02XJ2H4JHD3, display host IT-C02XJ2H4JHD3 for application RESTfulService
+2021-11-07T18:39:48,106+1100 [12449 35] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2021-11-07T18:39:49,527+1100 [12449 35] com.newrelic INFO: Collector redirection to collector-005.newrelic.com:443
+2021-11-07T18:39:50,794+1100 [12449 35] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2021-11-07T18:39:50,794+1100 [12449 35] com.newrelic INFO: Agent run id: BQm-xpiYIuApADLa7CFAeC5hh4MMAAIBAAAnIQEAADChAgQhQHerAwAFNy40LjAAD0lULUMwMlhKMkg0SkhEMwAOUkVTVGZ1bFNlcnZpY2U
+2021-11-07T18:39:50,794+1100 [12449 35] com.newrelic INFO: Agent 12449@IT-C02XJ2H4JHD3/RESTfulService connected to collector.newrelic.com:443
+2021-11-07T18:39:50,795+1100 [12449 35] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/3332844/applications/557873067
+2021-11-07T18:39:50,797+1100 [12449 35] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-11-07T18:39:50,797+1100 [12449 35] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2021-11-07T18:39:50,797+1100 [12449 35] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2021-11-07T18:39:50,844+1100 [12449 35] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-11-07T18:39:50,844+1100 [12449 35] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2021-11-07T18:39:50,845+1100 [12449 35] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2021-11-07T18:39:51,374+1100 [12449 35] com.newrelic INFO: Real user monitoring is enabled for application RESTfulService. Auto instrumentation is enabled.
+2021-11-07T18:39:51,375+1100 [12449 35] com.newrelic WARN: Not starting JFR Service. Core JFR APIs do not exist in this JVM.
+2021-11-07T18:41:02,081+1100 [12472 1] com.newrelic INFO: Writing to New Relic log file: /Users/admin/Downloads/RESTfulService-master/newrelic/logs/newrelic_agent.log
+2021-11-07T18:41:02,082+1100 [12472 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_201
+2021-11-07T18:41:02,082+1100 [12472 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.201-b09
+2021-11-07T18:41:02,083+1100 [12472 1] com.newrelic INFO: OS Mac OS X version 10.16 arch x86_64
+2021-11-07T18:41:02,083+1100 [12472 1] com.newrelic INFO: Agent Host: IT-C02XJ2H4JHD3 IP: 192.168.1.16
+2021-11-07T18:41:02,083+1100 [12472 1] com.newrelic INFO: New Relic Agent v7.4.0 is initializing...
+2021-11-07T18:41:03,359+1100 [12472 14] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-11-07T18:41:06,543+1100 [12472 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-11-07T18:41:07,518+1100 [12472 1] com.newrelic INFO: Setting audit_mode to false
+2021-11-07T18:41:07,931+1100 [12472 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/admin/Downloads/RESTfulService-master/newrelic/./newrelic.yml
+2021-11-07T18:41:07,954+1100 [12472 1] com.newrelic INFO: New Relic Agent v7.4.0 has started
+2021-11-07T18:41:07,954+1100 [12472 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@457e2f02
+2021-11-07T18:41:07,955+1100 [12472 1] com.newrelic INFO: Premain startup complete in 7,082ms
+2021-11-07T18:41:22,585+1100 [12472 43] com.newrelic INFO: Server Info: Apache Tomcat/8.5.28
+2021-11-07T18:41:42,968+1100 [12472 35] com.newrelic INFO: Host name is IT-C02XJ2H4JHD3, display host IT-C02XJ2H4JHD3 for application RESTfulService
+2021-11-07T18:41:42,969+1100 [12472 35] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2021-11-07T18:41:43,734+1100 [12472 35] com.newrelic INFO: Collector redirection to collector-005.newrelic.com:443
+2021-11-07T18:41:45,138+1100 [12472 35] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2021-11-07T18:41:45,138+1100 [12472 35] com.newrelic INFO: Agent run id: BXuuNBmgpz9NADLa7CFAeC5hh4OEAAIBAAAnIQEAADC4AgQhQHerAwAFNy40LjAAD0lULUMwMlhKMkg0SkhEMwAOUkVTVGZ1bFNlcnZpY2U
+2021-11-07T18:41:45,138+1100 [12472 35] com.newrelic INFO: Agent 12472@IT-C02XJ2H4JHD3/RESTfulService connected to collector.newrelic.com:443
+2021-11-07T18:41:45,139+1100 [12472 35] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/3332844/applications/557873067
+2021-11-07T18:41:45,141+1100 [12472 35] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-11-07T18:41:45,141+1100 [12472 35] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2021-11-07T18:41:45,141+1100 [12472 35] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2021-11-07T18:41:45,146+1100 [12472 35] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-11-07T18:41:45,146+1100 [12472 35] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2021-11-07T18:41:45,146+1100 [12472 35] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2021-11-07T18:41:46,357+1100 [12472 35] com.newrelic INFO: Real user monitoring is enabled for application RESTfulService. Auto instrumentation is enabled.
+2021-11-07T18:41:46,358+1100 [12472 35] com.newrelic WARN: Not starting JFR Service. Core JFR APIs do not exist in this JVM.
+2021-11-07T18:42:29,683+1100 [12504 1] com.newrelic INFO: Writing to New Relic log file: /Users/admin/Downloads/RESTfulService-master/newrelic/logs/newrelic_agent.log
+2021-11-07T18:42:29,684+1100 [12504 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_201
+2021-11-07T18:42:29,684+1100 [12504 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.201-b09
+2021-11-07T18:42:29,684+1100 [12504 1] com.newrelic INFO: OS Mac OS X version 10.16 arch x86_64
+2021-11-07T18:42:29,684+1100 [12504 1] com.newrelic INFO: Agent Host: IT-C02XJ2H4JHD3 IP: 192.168.1.16
+2021-11-07T18:42:29,684+1100 [12504 1] com.newrelic INFO: New Relic Agent v7.4.0 is initializing...
+2021-11-07T18:42:30,870+1100 [12504 14] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-11-07T18:42:34,220+1100 [12504 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-11-07T18:42:35,208+1100 [12504 1] com.newrelic INFO: Setting audit_mode to false
+2021-11-07T18:42:35,627+1100 [12504 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/admin/Downloads/RESTfulService-master/newrelic/./newrelic.yml
+2021-11-07T18:42:35,651+1100 [12504 1] com.newrelic INFO: New Relic Agent v7.4.0 has started
+2021-11-07T18:42:35,651+1100 [12504 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@457e2f02
+2021-11-07T18:42:35,651+1100 [12504 1] com.newrelic INFO: Premain startup complete in 7,148ms
+2021-11-07T18:42:42,537+1100 [12504 43] com.newrelic INFO: Server Info: Apache Tomcat/8.5.28
+2021-11-07T18:42:55,657+1100 [12504 35] com.newrelic INFO: Host name is IT-C02XJ2H4JHD3, display host IT-C02XJ2H4JHD3 for application RESTfulService
+2021-11-07T18:42:55,660+1100 [12504 35] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2021-11-07T18:42:56,368+1100 [12504 35] com.newrelic INFO: Collector redirection to collector-005.newrelic.com:443
+2021-11-07T20:39:26,792+1100 [14253 1] com.newrelic INFO: Writing to New Relic log file: /Users/admin/Desktop/RestApp-master/newrelic/logs/newrelic_agent.log
+2021-11-07T20:39:26,792+1100 [14253 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_201
+2021-11-07T20:39:26,793+1100 [14253 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.201-b09
+2021-11-07T20:39:26,793+1100 [14253 1] com.newrelic INFO: OS Mac OS X version 10.16 arch x86_64
+2021-11-07T20:39:26,793+1100 [14253 1] com.newrelic INFO: Agent Host: IT-C02XJ2H4JHD3 IP: 192.168.1.16
+2021-11-07T20:39:26,793+1100 [14253 1] com.newrelic INFO: New Relic Agent v7.4.0 is initializing...
+2021-11-07T20:39:28,024+1100 [14253 11] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-11-07T20:39:31,076+1100 [14253 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-11-07T20:39:32,026+1100 [14253 1] com.newrelic INFO: Setting audit_mode to false
+2021-11-07T20:39:32,436+1100 [14253 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/admin/Desktop/RestApp-master/newrelic/./newrelic.yml
+2021-11-07T20:39:32,455+1100 [14253 1] com.newrelic INFO: New Relic Agent v7.4.0 has started
+2021-11-07T20:39:32,455+1100 [14253 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@1b4fb997
+2021-11-07T20:39:32,456+1100 [14253 1] com.newrelic INFO: Premain startup complete in 6,958ms
+2021-11-07T20:39:36,340+1100 [14253 40] com.newrelic INFO: Server Info: Apache Tomcat/8.5.28
+2021-11-07T20:39:42,462+1100 [14253 32] com.newrelic INFO: Host name is IT-C02XJ2H4JHD3, display host IT-C02XJ2H4JHD3 for application RestApp
+2021-11-07T20:39:42,463+1100 [14253 32] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2021-11-07T20:39:43,793+1100 [14253 32] com.newrelic INFO: Collector redirection to collector-005.newrelic.com:443
+2021-11-07T20:39:44,991+1100 [14253 32] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2021-11-07T20:39:44,991+1100 [14253 32] com.newrelic INFO: Agent run id: BU5suPr8FxMJADLa7CE_OS9hh58sAAIBAAAnIQEAADetAgQhPzmwAwAFNy40LjAAD0lULUMwMlhKMkg0SkhEMwAHUmVzdEFwcA
+2021-11-07T20:39:44,992+1100 [14253 32] com.newrelic INFO: Agent 14253@IT-C02XJ2H4JHD3/RestApp connected to collector.newrelic.com:443
+2021-11-07T20:39:44,992+1100 [14253 32] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/3332844/applications/557791664
+2021-11-07T20:39:44,993+1100 [14253 32] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-11-07T20:39:44,994+1100 [14253 32] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2021-11-07T20:39:44,994+1100 [14253 32] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2021-11-07T20:39:44,997+1100 [14253 32] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-11-07T20:39:44,997+1100 [14253 32] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2021-11-07T20:39:44,997+1100 [14253 32] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2021-11-07T20:39:45,623+1100 [14253 32] com.newrelic INFO: Real user monitoring is enabled for application RestApp. Auto instrumentation is enabled.
+2021-11-07T20:39:45,625+1100 [14253 32] com.newrelic WARN: Not starting JFR Service. Core JFR APIs do not exist in this JVM.
+2021-11-07T21:39:09,206+1100 [14253 6] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2021-11-07T21:39:09,280+1100 [14253 310] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@68623b12 tried to finish but ServiceManager not started
+2021-11-07T21:39:10,413+1100 [14253 6] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2021-11-07T21:40:18,520+1100 [15201 1] com.newrelic INFO: Writing to New Relic log file: /Users/admin/Desktop/RestApp-master/newrelic/logs/newrelic_agent.log
+2021-11-07T21:40:18,521+1100 [15201 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_201
+2021-11-07T21:40:18,521+1100 [15201 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.201-b09
+2021-11-07T21:40:18,521+1100 [15201 1] com.newrelic INFO: OS Mac OS X version 10.16 arch x86_64
+2021-11-07T21:40:18,521+1100 [15201 1] com.newrelic INFO: Agent Host: IT-C02XJ2H4JHD3 IP: 192.168.1.16
+2021-11-07T21:40:18,522+1100 [15201 1] com.newrelic INFO: New Relic Agent v7.4.0 is initializing...
+2021-11-07T21:40:19,667+1100 [15201 11] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-11-07T21:40:22,723+1100 [15201 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-11-07T21:40:23,653+1100 [15201 1] com.newrelic INFO: Setting audit_mode to false
+2021-11-07T21:40:24,032+1100 [15201 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/admin/Desktop/RestApp-master/newrelic/./newrelic.yml
+2021-11-07T21:40:24,051+1100 [15201 1] com.newrelic INFO: New Relic Agent v7.4.0 has started
+2021-11-07T21:40:24,052+1100 [15201 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@1b4fb997
+2021-11-07T21:40:24,052+1100 [15201 1] com.newrelic INFO: Premain startup complete in 6,655ms
+2021-11-07T21:40:27,841+1100 [15201 40] com.newrelic INFO: Server Info: Apache Tomcat/8.5.28
+2021-11-07T21:40:34,055+1100 [15201 32] com.newrelic INFO: Host name is IT-C02XJ2H4JHD3, display host IT-C02XJ2H4JHD3 for application RestApp
+2021-11-07T21:40:34,056+1100 [15201 32] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2021-11-07T21:40:35,510+1100 [15201 32] com.newrelic INFO: Collector redirection to collector-005.newrelic.com:443
+2021-11-07T21:40:36,738+1100 [15201 32] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2021-11-07T21:40:36,738+1100 [15201 32] com.newrelic INFO: Agent run id: Bay4os3RBomAADLa7CE_OS9hh614AAIBAAAnIQEAADthAgQhPzmwAwAFNy40LjAAD0lULUMwMlhKMkg0SkhEMwAHUmVzdEFwcA
+2021-11-07T21:40:36,739+1100 [15201 32] com.newrelic INFO: Agent 15201@IT-C02XJ2H4JHD3/RestApp connected to collector.newrelic.com:443
+2021-11-07T21:40:36,739+1100 [15201 32] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/3332844/applications/557791664
+2021-11-07T21:40:36,741+1100 [15201 32] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-11-07T21:40:36,741+1100 [15201 32] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2021-11-07T21:40:36,741+1100 [15201 32] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2021-11-07T21:40:36,746+1100 [15201 32] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-11-07T21:40:36,746+1100 [15201 32] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2021-11-07T21:40:36,746+1100 [15201 32] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2021-11-07T21:40:38,184+1100 [15201 32] com.newrelic INFO: Real user monitoring is enabled for application RestApp. Auto instrumentation is enabled.
+2021-11-07T21:40:38,185+1100 [15201 32] com.newrelic WARN: Not starting JFR Service. Core JFR APIs do not exist in this JVM.
+2021-11-08T00:19:15,773+1100 [17994 1] com.newrelic INFO: Writing to New Relic log file: /Users/admin/Desktop/RestApp-master/newrelic/logs/newrelic_agent.log
+2021-11-08T00:19:15,773+1100 [17994 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_201
+2021-11-08T00:19:15,774+1100 [17994 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.201-b09
+2021-11-08T00:19:15,774+1100 [17994 1] com.newrelic INFO: OS Mac OS X version 10.16 arch x86_64
+2021-11-08T00:19:15,774+1100 [17994 1] com.newrelic INFO: Agent Host: IT-C02XJ2H4JHD3 IP: 192.168.1.16
+2021-11-08T00:19:15,775+1100 [17994 1] com.newrelic INFO: New Relic Agent v7.4.0 is initializing...
+2021-11-08T00:19:16,915+1100 [17994 11] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-11-08T00:19:20,064+1100 [17994 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-11-08T00:19:21,018+1100 [17994 1] com.newrelic INFO: Setting audit_mode to false
+2021-11-08T00:19:21,412+1100 [17994 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/admin/Desktop/RestApp-master/newrelic/./newrelic.yml
+2021-11-08T00:19:21,433+1100 [17994 1] com.newrelic INFO: New Relic Agent v7.4.0 has started
+2021-11-08T00:19:21,433+1100 [17994 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7e774085
+2021-11-08T00:19:21,433+1100 [17994 1] com.newrelic INFO: Premain startup complete in 6,789ms
+2021-11-08T00:19:25,688+1100 [17994 41] com.newrelic INFO: Server Info: Apache Tomcat/8.5.28
+2021-11-08T00:19:26,558+1100 [17994 6] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2021-11-08T00:19:26,559+1100 [17994 6] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2021-11-08T00:20:17,090+1100 [18011 1] com.newrelic INFO: Writing to New Relic log file: /Users/admin/Desktop/RestApp-master/newrelic/logs/newrelic_agent.log
+2021-11-08T00:20:17,091+1100 [18011 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_201
+2021-11-08T00:20:17,091+1100 [18011 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.201-b09
+2021-11-08T00:20:17,091+1100 [18011 1] com.newrelic INFO: OS Mac OS X version 10.16 arch x86_64
+2021-11-08T00:20:17,091+1100 [18011 1] com.newrelic INFO: Agent Host: IT-C02XJ2H4JHD3 IP: 192.168.1.16
+2021-11-08T00:20:17,091+1100 [18011 1] com.newrelic INFO: New Relic Agent v7.4.0 is initializing...
+2021-11-08T00:20:18,246+1100 [18011 11] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-11-08T00:20:21,398+1100 [18011 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-11-08T00:20:22,336+1100 [18011 1] com.newrelic INFO: Setting audit_mode to false
+2021-11-08T00:20:22,753+1100 [18011 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/admin/Desktop/RestApp-master/newrelic/./newrelic.yml
+2021-11-08T00:20:22,774+1100 [18011 1] com.newrelic INFO: New Relic Agent v7.4.0 has started
+2021-11-08T00:20:22,775+1100 [18011 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7e774085
+2021-11-08T00:20:22,775+1100 [18011 1] com.newrelic INFO: Premain startup complete in 7,027ms
+2021-11-08T00:20:27,060+1100 [18011 40] com.newrelic INFO: Server Info: Apache Tomcat/8.5.28
+2021-11-08T00:20:27,939+1100 [18011 6] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2021-11-08T00:20:27,941+1100 [18011 6] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2021-11-08T00:22:52,971+1100 [18059 1] com.newrelic INFO: Writing to New Relic log file: /Users/admin/Desktop/RestApp-master/newrelic/logs/newrelic_agent.log
+2021-11-08T00:22:52,972+1100 [18059 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_201
+2021-11-08T00:22:52,972+1100 [18059 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.201-b09
+2021-11-08T00:22:52,972+1100 [18059 1] com.newrelic INFO: OS Mac OS X version 10.16 arch x86_64
+2021-11-08T00:22:52,972+1100 [18059 1] com.newrelic INFO: Agent Host: IT-C02XJ2H4JHD3 IP: 192.168.1.16
+2021-11-08T00:22:52,972+1100 [18059 1] com.newrelic INFO: New Relic Agent v7.4.0 is initializing...
+2021-11-08T00:22:54,131+1100 [18059 11] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-11-08T00:22:57,430+1100 [18059 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-11-08T00:22:58,411+1100 [18059 1] com.newrelic INFO: Setting audit_mode to false
+2021-11-08T00:22:58,822+1100 [18059 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/admin/Desktop/RestApp-master/newrelic/./newrelic.yml
+2021-11-08T00:22:58,841+1100 [18059 1] com.newrelic INFO: New Relic Agent v7.4.0 has started
+2021-11-08T00:22:58,842+1100 [18059 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7e774085
+2021-11-08T00:22:58,842+1100 [18059 1] com.newrelic INFO: Premain startup complete in 7,051ms
+2021-11-08T00:23:02,819+1100 [18059 40] com.newrelic INFO: Server Info: Apache Tomcat/8.5.28
+2021-11-08T00:23:04,775+1100 [18059 6] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2021-11-08T00:23:04,777+1100 [18059 6] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2021-11-08T00:24:14,881+1100 [18081 1] com.newrelic INFO: Writing to New Relic log file: /Users/admin/Desktop/RestApp-master/newrelic/logs/newrelic_agent.log
+2021-11-08T00:24:14,881+1100 [18081 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_201
+2021-11-08T00:24:14,881+1100 [18081 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.201-b09
+2021-11-08T00:24:14,882+1100 [18081 1] com.newrelic INFO: OS Mac OS X version 10.16 arch x86_64
+2021-11-08T00:24:14,882+1100 [18081 1] com.newrelic INFO: Agent Host: IT-C02XJ2H4JHD3 IP: 192.168.1.16
+2021-11-08T00:24:14,882+1100 [18081 1] com.newrelic INFO: New Relic Agent v7.4.0 is initializing...
+2021-11-08T00:24:16,035+1100 [18081 11] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-11-08T00:24:19,310+1100 [18081 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-11-08T00:24:20,262+1100 [18081 1] com.newrelic INFO: Setting audit_mode to false
+2021-11-08T00:24:20,683+1100 [18081 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/admin/Desktop/RestApp-master/newrelic/./newrelic.yml
+2021-11-08T00:24:20,705+1100 [18081 1] com.newrelic INFO: New Relic Agent v7.4.0 has started
+2021-11-08T00:24:20,705+1100 [18081 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7e774085
+2021-11-08T00:24:20,706+1100 [18081 1] com.newrelic INFO: Premain startup complete in 6,972ms
+2021-11-08T00:24:24,730+1100 [18081 40] com.newrelic INFO: Server Info: Apache Tomcat/8.5.28
+2021-11-08T00:24:26,616+1100 [18081 6] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2021-11-08T00:24:26,619+1100 [18081 6] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2021-11-08T00:26:41,417+1100 [18124 1] com.newrelic INFO: Writing to New Relic log file: /Users/admin/Desktop/RestApp-master/newrelic/logs/newrelic_agent.log
+2021-11-08T00:26:41,418+1100 [18124 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_201
+2021-11-08T00:26:41,418+1100 [18124 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.201-b09
+2021-11-08T00:26:41,418+1100 [18124 1] com.newrelic INFO: OS Mac OS X version 10.16 arch x86_64
+2021-11-08T00:26:41,418+1100 [18124 1] com.newrelic INFO: Agent Host: IT-C02XJ2H4JHD3 IP: 192.168.1.16
+2021-11-08T00:26:41,418+1100 [18124 1] com.newrelic INFO: New Relic Agent v7.4.0 is initializing...
+2021-11-08T00:26:42,681+1100 [18124 11] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-11-08T00:26:46,007+1100 [18124 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-11-08T00:26:47,013+1100 [18124 1] com.newrelic INFO: Setting audit_mode to false
+2021-11-08T00:26:47,421+1100 [18124 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/admin/Desktop/RestApp-master/newrelic/./newrelic.yml
+2021-11-08T00:26:47,445+1100 [18124 1] com.newrelic INFO: New Relic Agent v7.4.0 has started
+2021-11-08T00:26:47,445+1100 [18124 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7e774085
+2021-11-08T00:26:47,445+1100 [18124 1] com.newrelic INFO: Premain startup complete in 7,280ms
+2021-11-08T00:26:51,713+1100 [18124 40] com.newrelic INFO: Server Info: Apache Tomcat/8.5.28
+2021-11-08T00:26:57,450+1100 [18124 32] com.newrelic INFO: Host name is IT-C02XJ2H4JHD3, display host IT-C02XJ2H4JHD3 for application RestApp
+2021-11-08T00:26:57,451+1100 [18124 32] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2021-11-08T00:26:58,211+1100 [18124 32] com.newrelic INFO: Collector redirection to collector-005.newrelic.com:443
+2021-11-08T00:26:59,406+1100 [18124 32] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2021-11-08T00:26:59,406+1100 [18124 32] com.newrelic INFO: Agent run id: BfptRE7YAd5LADLa7CE_OS9hh9RgAAIBAAAnIQEAAEbMAgQhPzmwAwAFNy40LjAAD0lULUMwMlhKMkg0SkhEMwAHUmVzdEFwcA
+2021-11-08T00:26:59,406+1100 [18124 32] com.newrelic INFO: Agent 18124@IT-C02XJ2H4JHD3/RestApp connected to collector.newrelic.com:443
+2021-11-08T00:26:59,406+1100 [18124 32] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/3332844/applications/557791664
+2021-11-08T00:26:59,408+1100 [18124 32] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-11-08T00:26:59,408+1100 [18124 32] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2021-11-08T00:26:59,408+1100 [18124 32] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2021-11-08T00:26:59,412+1100 [18124 32] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-11-08T00:26:59,412+1100 [18124 32] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2021-11-08T00:26:59,412+1100 [18124 32] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2021-11-08T00:26:59,941+1100 [18124 32] com.newrelic INFO: Real user monitoring is enabled for application RestApp. Auto instrumentation is enabled.
+2021-11-08T00:26:59,942+1100 [18124 32] com.newrelic WARN: Not starting JFR Service. Core JFR APIs do not exist in this JVM.
+2021-11-08T00:27:32,494+1100 [18124 6] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2021-11-08T00:27:32,587+1100 [18124 75] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@502b5abf tried to finish but ServiceManager not started
+2021-11-08T00:27:33,733+1100 [18124 6] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2021-11-08T00:27:57,921+1100 [18142 1] com.newrelic INFO: Writing to New Relic log file: /Users/admin/Desktop/RestApp-master/newrelic/logs/newrelic_agent.log
+2021-11-08T00:27:57,921+1100 [18142 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_201
+2021-11-08T00:27:57,922+1100 [18142 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.201-b09
+2021-11-08T00:27:57,922+1100 [18142 1] com.newrelic INFO: OS Mac OS X version 10.16 arch x86_64
+2021-11-08T00:27:57,922+1100 [18142 1] com.newrelic INFO: Agent Host: IT-C02XJ2H4JHD3 IP: 192.168.1.16
+2021-11-08T00:27:57,922+1100 [18142 1] com.newrelic INFO: New Relic Agent v7.4.0 is initializing...
+2021-11-08T00:27:59,048+1100 [18142 11] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-11-08T00:28:02,183+1100 [18142 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-11-08T00:28:03,129+1100 [18142 1] com.newrelic INFO: Setting audit_mode to false
+2021-11-08T00:28:03,522+1100 [18142 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/admin/Desktop/RestApp-master/newrelic/./newrelic.yml
+2021-11-08T00:28:03,541+1100 [18142 1] com.newrelic INFO: New Relic Agent v7.4.0 has started
+2021-11-08T00:28:03,542+1100 [18142 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7e774085
+2021-11-08T00:28:03,542+1100 [18142 1] com.newrelic INFO: Premain startup complete in 6,775ms
+2021-11-08T00:28:07,615+1100 [18142 40] com.newrelic INFO: Server Info: Apache Tomcat/8.5.28
+2021-11-08T00:28:13,545+1100 [18142 32] com.newrelic INFO: Host name is IT-C02XJ2H4JHD3, display host IT-C02XJ2H4JHD3 for application RestApp
+2021-11-08T00:28:13,546+1100 [18142 32] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2021-11-08T00:28:14,306+1100 [18142 32] com.newrelic INFO: Collector redirection to collector-005.newrelic.com:443
+2021-11-08T00:28:14,906+1100 [18142 32] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2021-11-08T00:28:14,907+1100 [18142 32] com.newrelic INFO: Agent run id: BaGhrIDxk2ahADLa7CE_OS9hh9TYAAIBAAAnIQEAAEbeAgQhPzmwAwAFNy40LjAAD0lULUMwMlhKMkg0SkhEMwAHUmVzdEFwcA
+2021-11-08T00:28:14,907+1100 [18142 32] com.newrelic INFO: Agent 18142@IT-C02XJ2H4JHD3/RestApp connected to collector.newrelic.com:443
+2021-11-08T00:28:14,907+1100 [18142 32] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/3332844/applications/557791664
+2021-11-08T00:28:14,909+1100 [18142 32] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-11-08T00:28:14,910+1100 [18142 32] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2021-11-08T00:28:14,910+1100 [18142 32] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2021-11-08T00:28:14,914+1100 [18142 32] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-11-08T00:28:14,914+1100 [18142 32] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2021-11-08T00:28:14,914+1100 [18142 32] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2021-11-08T00:28:16,229+1100 [18142 32] com.newrelic INFO: Real user monitoring is enabled for application RestApp. Auto instrumentation is enabled.
+2021-11-08T00:28:16,230+1100 [18142 32] com.newrelic WARN: Not starting JFR Service. Core JFR APIs do not exist in this JVM.
+2021-11-08T00:28:45,575+1100 [18142 6] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2021-11-08T00:28:45,648+1100 [18142 74] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@61767a1d tried to finish but ServiceManager not started
+2021-11-08T00:28:47,256+1100 [18142 6] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2021-11-08T00:29:08,036+1100 [18156 1] com.newrelic INFO: Writing to New Relic log file: /Users/admin/Desktop/RestApp-master/newrelic/logs/newrelic_agent.log
+2021-11-08T00:29:08,037+1100 [18156 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_201
+2021-11-08T00:29:08,037+1100 [18156 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.201-b09
+2021-11-08T00:29:08,037+1100 [18156 1] com.newrelic INFO: OS Mac OS X version 10.16 arch x86_64
+2021-11-08T00:29:08,037+1100 [18156 1] com.newrelic INFO: Agent Host: IT-C02XJ2H4JHD3 IP: 192.168.1.16
+2021-11-08T00:29:08,037+1100 [18156 1] com.newrelic INFO: New Relic Agent v7.4.0 is initializing...
+2021-11-08T00:29:09,242+1100 [18156 14] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-11-08T00:29:12,641+1100 [18156 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-11-08T00:29:13,623+1100 [18156 1] com.newrelic INFO: Setting audit_mode to false
+2021-11-08T00:29:14,034+1100 [18156 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/admin/Desktop/RestApp-master/newrelic/./newrelic.yml
+2021-11-08T00:29:14,055+1100 [18156 1] com.newrelic INFO: New Relic Agent v7.4.0 has started
+2021-11-08T00:29:14,055+1100 [18156 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@3e6fa38a
+2021-11-08T00:29:14,056+1100 [18156 1] com.newrelic INFO: Premain startup complete in 7,215ms
+2021-11-08T00:29:22,178+1100 [18156 43] com.newrelic INFO: Server Info: Apache Tomcat/8.5.28
+2021-11-08T00:29:49,059+1100 [18156 35] com.newrelic INFO: Host name is IT-C02XJ2H4JHD3, display host IT-C02XJ2H4JHD3 for application RestApp
+2021-11-08T00:29:49,060+1100 [18156 35] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2021-11-08T00:29:49,938+1100 [18156 35] com.newrelic INFO: Collector redirection to collector-005.newrelic.com:443
+2021-11-08T00:29:51,117+1100 [18156 35] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2021-11-08T00:29:51,117+1100 [18156 35] com.newrelic INFO: Agent run id: BWcgnTv2LEKDADLa7CE_OS9hh9UUAAIBAAAnIQEAAEbsAgQhPzmwAwAFNy40LjAAD0lULUMwMlhKMkg0SkhEMwAHUmVzdEFwcA
+2021-11-08T00:29:51,117+1100 [18156 35] com.newrelic INFO: Agent 18156@IT-C02XJ2H4JHD3/RestApp connected to collector.newrelic.com:443
+2021-11-08T00:29:51,118+1100 [18156 35] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/3332844/applications/557791664
+2021-11-08T00:29:51,120+1100 [18156 35] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-11-08T00:29:51,120+1100 [18156 35] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2021-11-08T00:29:51,120+1100 [18156 35] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2021-11-08T00:29:51,124+1100 [18156 35] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-11-08T00:29:51,124+1100 [18156 35] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2021-11-08T00:29:51,124+1100 [18156 35] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2021-11-08T00:29:52,390+1100 [18156 35] com.newrelic INFO: Real user monitoring is enabled for application RestApp. Auto instrumentation is enabled.
+2021-11-08T00:29:52,391+1100 [18156 35] com.newrelic WARN: Not starting JFR Service. Core JFR APIs do not exist in this JVM.
+2021-11-08T00:32:45,028+1100 [18199 1] com.newrelic INFO: Writing to New Relic log file: /Users/admin/Desktop/RestApp-master/newrelic/logs/newrelic_agent.log
+2021-11-08T00:32:45,029+1100 [18199 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_201
+2021-11-08T00:32:45,029+1100 [18199 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.201-b09
+2021-11-08T00:32:45,029+1100 [18199 1] com.newrelic INFO: OS Mac OS X version 10.16 arch x86_64
+2021-11-08T00:32:45,029+1100 [18199 1] com.newrelic INFO: Agent Host: IT-C02XJ2H4JHD3 IP: 192.168.1.16
+2021-11-08T00:32:45,029+1100 [18199 1] com.newrelic INFO: New Relic Agent v7.4.0 is initializing...
+2021-11-08T00:32:46,291+1100 [18199 11] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-11-08T00:32:49,465+1100 [18199 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-11-08T00:32:50,477+1100 [18199 1] com.newrelic INFO: Setting audit_mode to false
+2021-11-08T00:32:50,917+1100 [18199 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/admin/Desktop/RestApp-master/newrelic/./newrelic.yml
+2021-11-08T00:32:50,937+1100 [18199 1] com.newrelic INFO: New Relic Agent v7.4.0 has started
+2021-11-08T00:32:50,938+1100 [18199 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@73a8dfcc
+2021-11-08T00:32:50,938+1100 [18199 1] com.newrelic INFO: Premain startup complete in 7,184ms
+2021-11-08T00:32:51,025+1100 [18199 6] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2021-11-08T00:32:51,059+1100 [18199 6] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2021-11-08T00:33:33,695+1100 [18214 1] com.newrelic INFO: Writing to New Relic log file: /Users/admin/Desktop/RestApp-master/newrelic/logs/newrelic_agent.log
+2021-11-08T00:33:33,696+1100 [18214 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_201
+2021-11-08T00:33:33,696+1100 [18214 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.201-b09
+2021-11-08T00:33:33,696+1100 [18214 1] com.newrelic INFO: OS Mac OS X version 10.16 arch x86_64
+2021-11-08T00:33:33,696+1100 [18214 1] com.newrelic INFO: Agent Host: IT-C02XJ2H4JHD3 IP: 192.168.1.16
+2021-11-08T00:33:33,697+1100 [18214 1] com.newrelic INFO: New Relic Agent v7.4.0 is initializing...
+2021-11-08T00:33:35,081+1100 [18214 11] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-11-08T00:33:38,383+1100 [18214 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-11-08T00:33:39,391+1100 [18214 1] com.newrelic INFO: Setting audit_mode to false
+2021-11-08T00:33:39,807+1100 [18214 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/admin/Desktop/RestApp-master/newrelic/./newrelic.yml
+2021-11-08T00:33:39,826+1100 [18214 1] com.newrelic INFO: New Relic Agent v7.4.0 has started
+2021-11-08T00:33:39,826+1100 [18214 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@73a8dfcc
+2021-11-08T00:33:39,827+1100 [18214 1] com.newrelic INFO: Premain startup complete in 7,510ms
+2021-11-08T00:33:39,907+1100 [18214 6] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2021-11-08T00:33:39,943+1100 [18214 6] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2021-11-08T00:35:48,427+1100 [18261 1] com.newrelic INFO: Writing to New Relic log file: /Users/admin/Desktop/RestApp-master/newrelic/logs/newrelic_agent.log
+2021-11-08T00:35:48,429+1100 [18261 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_201
+2021-11-08T00:35:48,429+1100 [18261 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.201-b09
+2021-11-08T00:35:48,429+1100 [18261 1] com.newrelic INFO: OS Mac OS X version 10.16 arch x86_64
+2021-11-08T00:35:48,430+1100 [18261 1] com.newrelic INFO: Agent Host: IT-C02XJ2H4JHD3 IP: 192.168.1.16
+2021-11-08T00:35:48,430+1100 [18261 1] com.newrelic INFO: New Relic Agent v7.4.0 is initializing...
+2021-11-08T00:35:49,662+1100 [18261 11] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-11-08T00:35:52,819+1100 [18261 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-11-08T00:35:53,797+1100 [18261 1] com.newrelic INFO: Setting audit_mode to false
+2021-11-08T00:35:54,203+1100 [18261 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/admin/Desktop/RestApp-master/newrelic/./newrelic.yml
+2021-11-08T00:35:54,222+1100 [18261 1] com.newrelic INFO: New Relic Agent v7.4.0 has started
+2021-11-08T00:35:54,223+1100 [18261 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@73c6c3b2
+2021-11-08T00:35:54,223+1100 [18261 1] com.newrelic INFO: Premain startup complete in 7,074ms
+2021-11-08T00:35:58,211+1100 [18261 40] com.newrelic INFO: Server Info: Apache Tomcat/8.5.28
+2021-11-08T00:36:04,227+1100 [18261 32] com.newrelic INFO: Host name is IT-C02XJ2H4JHD3, display host IT-C02XJ2H4JHD3 for application RestApp
+2021-11-08T00:36:04,228+1100 [18261 32] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2021-11-08T00:36:05,578+1100 [18261 32] com.newrelic INFO: Collector redirection to collector-005.newrelic.com:443
+2021-11-08T00:36:06,875+1100 [18261 32] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2021-11-08T00:36:06,875+1100 [18261 32] com.newrelic INFO: Agent run id: BbebtZ7fzGVfADLa7CE_OS9hh9a4AAIBAAAnIQEAAEdVAgQhPzmwAwAFNy40LjAAD0lULUMwMlhKMkg0SkhEMwAHUmVzdEFwcA
+2021-11-08T00:36:06,876+1100 [18261 32] com.newrelic INFO: Agent 18261@IT-C02XJ2H4JHD3/RestApp connected to collector.newrelic.com:443
+2021-11-08T00:36:06,876+1100 [18261 32] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/3332844/applications/557791664
+2021-11-08T00:36:06,878+1100 [18261 32] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-11-08T00:36:06,878+1100 [18261 32] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2021-11-08T00:36:06,878+1100 [18261 32] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2021-11-08T00:36:06,882+1100 [18261 32] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-11-08T00:36:06,882+1100 [18261 32] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2021-11-08T00:36:06,882+1100 [18261 32] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2021-11-08T00:36:08,094+1100 [18261 32] com.newrelic INFO: Real user monitoring is enabled for application RestApp. Auto instrumentation is enabled.
+2021-11-08T00:36:08,102+1100 [18261 32] com.newrelic WARN: Not starting JFR Service. Core JFR APIs do not exist in this JVM.
+2021-11-08T00:37:58,410+1100 [18261 6] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2021-11-08T00:37:58,495+1100 [18261 79] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@9af792b tried to finish but ServiceManager not started
+2021-11-08T00:37:59,544+1100 [18261 6] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
